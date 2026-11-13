@@ -1,5 +1,5 @@
 
-# CampusFlow — Student Task Management Dashboard
+# CampusFlow - Student Task Management Dashboard
 
 A simple and responsive task management website built using React.js, JavaScript, and CSS. This project helps students organize their daily tasks, manage deadlines, and track their progress.
 
